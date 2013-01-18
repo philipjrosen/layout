@@ -1,3 +1,49 @@
 body {
   /* rules go here */
 }
+
+nav {
+  background-color: black;
+  color: white;
+}
+
+input {
+  width: 552px;
+  height: 20px;
+  position: absolute;
+  top: 500px;
+  left: 300px;
+}
+
+#search{
+
+  width: 120px;
+  height: 29px;
+  position: absolute;
+  top: 550px;
+  left: 435px;
+  font-weight: bold;
+}
+
+#lucky{
+  position:absolute;
+  top: 550px;
+  left: 570px;
+  height: 29px;
+  width: 130px;
+  font-weight: bold;
+}
+
+img {
+  position: absolute;
+  top: 350px;
+  left: 425px;
+}
+
+#sign_in{
+  position:absolute;
+  top: 50px;
+  left:1050px;
+  height: 35px;
+  width: 100px;
+}
